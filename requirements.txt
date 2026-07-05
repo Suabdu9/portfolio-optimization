@@ -13,3 +13,4 @@ jupyter
 notebook
 ipykernel
 PyPortfolioOpt
+pytest
