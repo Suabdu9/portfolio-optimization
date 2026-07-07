@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of the 10 Academy Week 11 challenge.
+This project was completed as part of the 10 Academy Week 9 challenge.
 
 The objective is to develop time series forecasting models and use their predictions to optimize an investment portfolio for **Guide Me in Finance (GMF) Investments**.
 
